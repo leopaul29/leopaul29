@@ -33,10 +33,11 @@ I am Léo, Full-Stack Developer from Nice, France.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=leopaul29&hide=contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopaul29&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ✨Wakatime recently added
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0ec9f97c-0e0c-4300-b2db-01899b44cb11)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **leopaul29/leopaul29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,4 +55,6 @@ Here are some ideas to get you started:
 -->
 
 # Stay awesome!
+<!--
 [![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)](https://github.com/shravan20/github-readme-quotes)
+-->
