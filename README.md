@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 -->
 
 # Stay awesome!
+
 <!--
+random quote
 [![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)](https://github.com/shravan20/github-readme-quotes)
 -->
