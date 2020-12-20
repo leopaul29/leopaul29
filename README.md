@@ -23,15 +23,23 @@ I am Léo, Full-Stack Developer from Nice, France.
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C787?logo=netlify&logoColor=white&style=flat" />
 </p>
 
+#### Backend development
+<p>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
+</p>
+
 #### Game development
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat" />
 </p>
 
+<!--
 ## Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=leopaul29&hide=contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopaul29&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 ✨Wakatime recently added
@@ -54,9 +62,9 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 # Stay awesome!
 
-<!--
 random quote
 [![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)](https://github.com/shravan20/github-readme-quotes)
 -->
