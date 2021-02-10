@@ -20,6 +20,11 @@ rgb (0, 20, 57, 0.95)
 #d35400
 #ecf0f1
 #2c3e50
+- 📰 January 2021
+- 📌 Routine
+- 🌞 Weekly recap
+- 💼 Projects achieved
+- 📈 Skill up
 
 ✨ Hackathon
 #9b59b6
@@ -28,8 +33,8 @@ rgb (0, 20, 57, 0.95)
 #2c3e50
 
 🚀 Special
-#e74c3c
-#c0392b
+#2ecc71
+#27ae60
 #ecf0f1
 #2c3e50
 
