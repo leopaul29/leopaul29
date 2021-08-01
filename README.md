@@ -4,8 +4,9 @@
 I am a full-stack software engineer from Nice, France. Developer and Traveller.
 
 - 🌱 I’m currently exploring new things in technology.
-- 🔭 I’m currently working with React and NextJs.
-- 📚 I'm planning to learn more about Jamstack and Svelte.
+- 🔭 I’m currently working with Java Spring.
+- 📚 I'm planning to learn more about Flutter.
+- 😄 Pronouns: he/him
 - ⚡ I love to play guitar 🎸 and I'm learning japanese language 🏯
 <!--END_SECTION:introduction-->
 
@@ -33,6 +34,13 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 </div>
 <br/>
 <!--END_SECTION:techstack-->
+
+<!--START_SECTION:trophy-->
+#### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=leopaul29&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+<!--END_SECTION:trophy-->
 
 <!--START_SECTION:waka-->
 #### 📊 This Week I Spent My Time On
