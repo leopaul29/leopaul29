@@ -43,3 +43,8 @@ rgb (0, 20, 57, 0.95)
 #3498db
 #ecf0f1
 #2c3e50
+
+
+<!--START_SECTION:daily.dev-->
+<a href="https://app.daily.dev/leopaul29"><img src="https://api.daily.dev/devcards/fc72ad77092344529ac460ce1eec3eef.png?r=t5d" width="400" alt="Leo's Dev Card"/></a>
+<!--END_SECTION:daily.dev-->
