@@ -57,6 +57,8 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 </p>
 <!--END_SECTION:githubstats-->
 
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leopaul29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+
 <!--
 **leopaul29/leopaul29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
