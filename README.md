@@ -8,6 +8,8 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 - 📚 I'm planning to learn more about Flutter.
 - 😄 Pronouns: he/him
 - ⚡ I love to play guitar 🎸 and I'm learning japanese language 🏯
+
+[![wakatime](https://wakatime.com/badge/user/0ec9f97c-0e0c-4300-b2db-01899b44cb11.svg)](https://wakatime.com/@0ec9f97c-0e0c-4300-b2db-01899b44cb11)
 <!--END_SECTION:introduction-->
 
 <!--START_SECTION:connect-->
@@ -43,10 +45,10 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 <!--END_SECTION:trophy-->
 
 <!--START_SECTION:waka-->
-#### 📊 This Week I Spent My Time On
+<!--#### 📊 This Week I Spent My Time On
 <p>
   <img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=leopaul29&langs_count=5&count_private=true&hide_title=true" />
-</p>
+</p>-->
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:githubstats-->
