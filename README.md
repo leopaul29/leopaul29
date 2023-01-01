@@ -9,14 +9,13 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 - 😄 Pronouns: he/him
 - ⚡ I love to play guitar 🎸 and I'm learning japanese language 🏯
 
-[![wakatime](https://wakatime.com/badge/user/0ec9f97c-0e0c-4300-b2db-01899b44cb11.svg)](https://wakatime.com/@0ec9f97c-0e0c-4300-b2db-01899b44cb11)
 <!--END_SECTION:introduction-->
 
 <!--START_SECTION:connect-->
-#### 👯 Connect with me
+<!--#### 👯 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leo-paul-martin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/leopaul29)
-<!--[![Hasnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://lpm.hashnode.dev/)
+[![Hasnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://lpm.hashnode.dev/)
 [![Twitter Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leopaul29)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leopaul29)-->
 <!--END_SECTION:connect-->
