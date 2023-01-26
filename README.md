@@ -37,10 +37,10 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 <!--END_SECTION:techstack-->
 
 <!--START_SECTION:trophy-->
-#### 🏆 GitHub Profile Trophy:
+<!--#### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=leopaul29&column=8&theme=radical&no-frame=true&no-bg=true"/>
-</a>
+</a>-->
 <!--END_SECTION:trophy-->
 
 <!--START_SECTION:waka-->
@@ -51,11 +51,11 @@ I am a full-stack software engineer from Nice, France. Developer and Traveller.
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:githubstats-->
-#### 📈 My GitHub Stats
+<!--#### 📈 My GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leopaul29&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopaul29&layout=compact&langs_count=8" />
-</p>
+</p>-->
 <!--END_SECTION:githubstats-->
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leopaul29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
