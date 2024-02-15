@@ -1,13 +1,12 @@
 ## Hi there <a href="https://leopaul29.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm [Léo-Paul MARTIN](https://leopaul29.github.io/)
 
 <!--START_SECTION:introduction-->
-I am a full-stack software engineer from Nice, France. Developer and Traveller.
+I am a full-stack software engineer from Nice, France. Developer and blockchain lover.
 
-- 🌱 I’m currently exploring new things in technology.
-- 🔭 I’m currently working with Java Spring.
-- 📚 I'm planning to learn more about Flutter.
-- 😄 Pronouns: he/him
-- ⚡ I love to play guitar 🎸 and I'm learning japanese language 🏯
+- 🌱 I’m currently exploring Soldity at [Alyra school](https://github.com/Alyra-school).
+- 🔭 I’m currently working with Java Spring and Angular.
+- ⚡ I love to play guitar 🎸 
+- 🏯 Planing to work in Japan as a developer
 
 <!--END_SECTION:introduction-->
 
