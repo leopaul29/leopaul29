@@ -1,4 +1,4 @@
-## Hi there <a href="https://leopaul29.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm [Léo-Paul MARTIN](https://leopaul29.github.io/)
+## Hi there <a href="https://leopaul29.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Leo
 
 <!--START_SECTION:introduction-->
 I am a full-stack software engineer from Nice, France. Software engineer and tech lover.
