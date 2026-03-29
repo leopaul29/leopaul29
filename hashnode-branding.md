@@ -1,4 +1,4 @@
-# Hashnode colors
+# Hashnode branding
 
 https://lpm.hashnode.dev/
 
