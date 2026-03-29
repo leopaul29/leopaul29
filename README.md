@@ -9,7 +9,7 @@
 
 ![myskills](https://skillicons.dev/icons?i=react,angular,nextjs,java,spring,githubactions,bitbucket,azure,postgres,py,pytorch,solidity&theme=light)
 
-## ⚡ Hackathons
+## ⚡ Hackathons / ハッカソン
 
 🏆 20+ hackathons (online & on-site)  
 📍 Tokyo-based experiences
