@@ -6,4 +6,7 @@
 ---
 
 ## 🛠 Tech Stack / 技術スタック
+
 ![myskills](https://skillicons.dev/icons?i=react,angular,nextjs,java,spring,githubactions,bitbucket,azure,postgres,py,pytorch,solidity&theme=light)
+
+🚀 Check my online/on-site hackathon history [here](./hackathons.md)
