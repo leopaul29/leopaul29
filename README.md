@@ -9,4 +9,13 @@
 
 ![myskills](https://skillicons.dev/icons?i=react,angular,nextjs,java,spring,githubactions,bitbucket,azure,postgres,py,pytorch,solidity&theme=light)
 
-🚀 Check my online/on-site hackathon history [here](./hackathons.md)
+## ⚡ Hackathons
+
+🏆 20+ hackathons (online & on-site)  
+📍 Tokyo-based experiences
+
+- 🏅 Wayto AGI — Special Prize → AI Reminder Bot
+- 🥈 Liquid AI Hackathon — 2nd Place → AI Bicycle
+- 🗼 VOX Tokyo → AI Omotenashi
+
+👉 [See full hackathon portfolio](./hackathons.md)
