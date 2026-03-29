@@ -50,6 +50,10 @@ Focus: experimentation & competitions
 - Hashnode + PlanetScale: [Teammood clone](https://github.com/leopaul29/teammood-clone)
 - Hashnode + Netlify: [LeagueOfLegends strawpoll](https://github.com/leopaul29/choix-de-mrd-lol)
 
+## 2022 🌐 (1)
+
+- [AWS Amplify chat app](https://github.com/leopaul29/amplify-chat-app/commits/master/)
+
 ## 2021 🌐 (5)
 
 - Hashnode + Auth0: [Quizz app](https://github.com/leopaul29/auth0-hackathon)
