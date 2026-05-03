@@ -14,9 +14,14 @@
 
 Hackathons space: luma, devpost, dev.to, hashnode
 
-## 2026 (3)
+## 2026 (4)
 
 Focus: AI agents & product thinking
+
+- 🗼 **Clawathon Tokyo Edition**  
+  → [XRPL Oracle Omikuji]([https://github.com/leopaul29/vox-tokyo-hackathon-march2026](https://github.com/leopaul29/clawathon-02052026))  
+  → Autonomous Shinto AI Oracle providing Omikuji via XRPL instant micro-payments.  
+  → Tech: Node.js, XRPL, Openai-api, testnet-blockchain
 
 - 🗼 **VOX Tokyo Hackathon**  
   → [AI Omotenashi](https://github.com/leopaul29/vox-tokyo-hackathon-march2026)  
@@ -52,7 +57,7 @@ Focus: experimentation & competitions
 
 ## 2022 🌐 (1)
 
-- [AWS Amplify chat app](https://github.com/leopaul29/amplify-chat-app/commits/master/)
+- Hashnode + AWS Amplify: [Chat room app](https://github.com/leopaul29/amplify-chat-app/commits/master/)
 
 ## 2021 🌐 (5)
 
@@ -62,6 +67,6 @@ Focus: experimentation & competitions
 - vercel + hashnode: [next music player](https://github.com/leopaul29/nextjs-music-player)
 - Global Game Jam: [Let's pack for a mission](https://github.com/leopaul29/Let-s-pack-for-mission)
 
-## 2020
+## 2020 🗾 (1)
 
-- 🗾(Okinawa) Global Game Jam: [Robot battle](https://github.com/leopaul29/RobotBattle)
+- (Okinawa) Global Game Jam: [Robot battle](https://github.com/leopaul29/RobotBattle)
