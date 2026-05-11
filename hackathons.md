@@ -19,7 +19,7 @@ Hackathons space: luma, devpost, dev.to, hashnode
 Focus: AI agents & product thinking
 
 - 🗼 **Clawathon Tokyo Edition**  
-  → [XRPL Oracle Omikuji]([https://github.com/leopaul29/vox-tokyo-hackathon-march2026](https://github.com/leopaul29/clawathon-02052026))  
+  → [XRPL Oracle Omikuji](https://github.com/leopaul29/clawathon-02052026)  
   → Autonomous Shinto AI Oracle providing Omikuji via XRPL instant micro-payments.  
   → Tech: Node.js, XRPL, Openai-api, testnet-blockchain
 
