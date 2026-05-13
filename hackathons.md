@@ -14,7 +14,7 @@
 
 Hackathons space: luma, devpost, dev.to, hashnode
 
-## 2026 (4)
+## 2026 (5)
 
 Focus: AI agents & product thinking
 
@@ -22,16 +22,16 @@ Focus: AI agents & product thinking
   → [XRPL Oracle Omikuji](https://github.com/leopaul29/clawathon-02052026)  
   → Autonomous Shinto AI Oracle providing Omikuji via XRPL instant micro-payments.  
   → Tech: Node.js, XRPL, Openai-api, testnet-blockchain
-
-- 🗼 **VOX Tokyo Hackathon**  
-  → [AI Omotenashi](https://github.com/leopaul29/vox-tokyo-hackathon-march2026)  
-  → AI assistant for personalized hospitality experiences  
-  → Tech: Gemini API, React, Node.js
   
 - 🗼 **Impact Tokyo**  
   → [Kizuna Link: Dementia Wellness Companion](https://github.com/leopaul29/impacttokyo-07032026)  
   → AI-powered bridge connecting seniors to *Kuyakusho* services and family via voice-first communication  
   → Tech: Next.js, Tailwind CSS, OpenAI API, LINE Messaging API, simulated MyNumber logic.
+  
+- 🗼 **VOX Tokyo Hackathon**  
+  → [AI Omotenashi](https://github.com/leopaul29/voxtokyo-01032026)  
+  → AI assistant for personalized hospitality experiences  
+  → Tech: Gemini API, React, Node.js
 
 - 🗼 **CareTech Catalyst (TRAE + ModAstrea)**  
   → [FutureHealth AI](https://github.com/leopaul29/futurehealth-ai)  
