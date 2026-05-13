@@ -27,6 +27,11 @@ Focus: AI agents & product thinking
   → [AI Omotenashi](https://github.com/leopaul29/vox-tokyo-hackathon-march2026)  
   → AI assistant for personalized hospitality experiences  
   → Tech: Gemini API, React, Node.js
+  
+- 🗼 **Impact Tokyo**  
+  → [Kizuna Link: Dementia Wellness Companion](https://github.com/leopaul29/impacttokyo-07032026)  
+  → AI-powered bridge connecting seniors to *Kuyakusho* services and family via voice-first communication  
+  → Tech: Next.js, Tailwind CSS, OpenAI API, LINE Messaging API, simulated MyNumber logic.
 
 - 🗼 **CareTech Catalyst (TRAE + ModAstrea)**  
   → [FutureHealth AI](https://github.com/leopaul29/futurehealth-ai)  
