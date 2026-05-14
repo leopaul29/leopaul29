@@ -14,12 +14,22 @@
 
 Hackathons space: luma, devpost, dev.to, hashnode
 
-## 2026 (3)
+## 2026 (5)
 
 Focus: AI agents & product thinking
 
+- 🗼 **Clawathon Tokyo Edition**  
+  → [XRPL Oracle Omikuji](https://github.com/leopaul29/clawathon-02052026)  
+  → Autonomous Shinto AI Oracle providing Omikuji via XRPL instant micro-payments.  
+  → Tech: Node.js, XRPL, Openai-api, testnet-blockchain
+  
+- 🗼 **Impact Tokyo**  
+  → [Kizuna Link: Dementia Wellness Companion](https://github.com/leopaul29/impacttokyo-07032026)  
+  → AI-powered bridge connecting seniors to *Kuyakusho* services and family via voice-first communication  
+  → Tech: Next.js, Tailwind CSS, OpenAI API, LINE Messaging API, simulated MyNumber logic.
+  
 - 🗼 **VOX Tokyo Hackathon**  
-  → [AI Omotenashi](https://github.com/leopaul29/vox-tokyo-hackathon-march2026)  
+  → [AI Omotenashi](https://github.com/leopaul29/voxtokyo-01032026)  
   → AI assistant for personalized hospitality experiences  
   → Tech: Gemini API, React, Node.js
 
@@ -33,12 +43,12 @@ Focus: AI agents & product thinking
   → Narrative RPG powered by memory-driven AI  
   → Tech: LLM, game logic
 
-## 2025 (5)
+## 2025 (6)
 
 Focus: experimentation & competitions
 
-- 🗼Wayto AGI - 🏅special prize: [reminder-bot](https://github.com/leopaul29/reminder-bot-wayto-agi-hackathon)
-- Liquid AI x W&B x Lambda Hackathon -🏆🥈 2nd Place: [AI bicycle](https://github.com/leopaul29/AI-Bicycle-Liquid-AI-Tokyo-Hackathon)
+- 🗼([📰](https://lpm.hashnode.dev/waytoagi-25102025)) Wayto AGI - 🏅special prize: [Reminder todo](https://github.com/leopaul29/waytoagi-25102025)
+- 🗼Liquid AI x W&B x Lambda Hackathon -🏆🥈 2nd Place: [AI bicycle](https://github.com/leopaul29/AI-Bicycle-Liquid-AI-Tokyo-Hackathon)
 - 🗼Tokyo AI agentic: [Namaeflow](https://github.com/toluwajosh/namaeflow)
 - 🌐Devpost + Youth Coders Hack 2025: [Kizuna alert](https://github.com/leopaul29/kizuna-alert-Youth-Coders-Hackathon)
 - 🌐Dev.to + Auth0 agentic: [Japanese fashion](https://github.com/leopaul29/japanese-fashion-ai)
@@ -52,7 +62,7 @@ Focus: experimentation & competitions
 
 ## 2022 🌐 (1)
 
-- [AWS Amplify chat app](https://github.com/leopaul29/amplify-chat-app/commits/master/)
+- Hashnode + AWS Amplify: [Chat room app](https://github.com/leopaul29/amplify-chat-app/commits/master/)
 
 ## 2021 🌐 (5)
 
@@ -62,6 +72,6 @@ Focus: experimentation & competitions
 - vercel + hashnode: [next music player](https://github.com/leopaul29/nextjs-music-player)
 - Global Game Jam: [Let's pack for a mission](https://github.com/leopaul29/Let-s-pack-for-mission)
 
-## 2020
+## 2020 🗾 (1)
 
-- 🗾(Okinawa) Global Game Jam: [Robot battle](https://github.com/leopaul29/RobotBattle)
+- (Okinawa) Global Game Jam: [Robot battle](https://github.com/leopaul29/RobotBattle)
