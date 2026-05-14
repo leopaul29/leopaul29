@@ -52,7 +52,7 @@ Focus: experimentation & competitions
 - 🗼Tokyo AI agentic: [Namaeflow](https://github.com/toluwajosh/namaeflow)
 - 🌐Devpost + Youth Coders Hack 2025: [Kizuna alert](https://github.com/leopaul29/kizuna-alert-Youth-Coders-Hackathon)
 - 🌐Dev.to + Auth0 agentic: [Japanese fashion](https://github.com/leopaul29/japanese-fashion-ai)
-- 🌐Dev.to + KendoReact: [Samurai progress dashboard](https://github.com/leopaul29/Samurai-Progress-Dashboard)
+- 🌐([📰](https://lpm.hashnode.dev/kendoreact-10092025) Dev.to + KendoReact: [Samurai progress dashboard](https://github.com/leopaul29/Samurai-Progress-Dashboard)
 
 ## 2023 🌐 (3)
 
