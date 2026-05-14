@@ -48,7 +48,7 @@ Focus: AI agents & product thinking
 Focus: experimentation & competitions
 
 - 🗼([📰](https://lpm.hashnode.dev/waytoagi-25102025)) Wayto AGI - 🏅special prize: [Reminder todo](https://github.com/leopaul29/waytoagi-25102025)
-- 🗼Liquid AI x W&B x Lambda Hackathon -🏆🥈 2nd Place: [AI bicycle](https://github.com/leopaul29/AI-Bicycle-Liquid-AI-Tokyo-Hackathon)
+- 🗼([📰](https://lpm.hashnode.dev/liquid-ai-hackathon)) Liquid AI x W&B x Lambda Hackathon -🏆🥈 2nd Place: [AI bicycle](https://github.com/leopaul29/AI-Bicycle-Liquid-AI-Tokyo-Hackathon)
 - 🗼Tokyo AI agentic: [Namaeflow](https://github.com/toluwajosh/namaeflow)
 - 🌐Devpost + Youth Coders Hack 2025: [Kizuna alert](https://github.com/leopaul29/kizuna-alert-Youth-Coders-Hackathon)
 - 🌐Dev.to + Auth0 agentic: [Japanese fashion](https://github.com/leopaul29/japanese-fashion-ai)
