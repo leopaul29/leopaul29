@@ -34,7 +34,7 @@ rgb (0, 20, 57, 0.95)
 - 💼 Projects achieved
 - 📈 Skill up
 
-### ✨ Hackathon
+### ✨ Events
 
 #9b59b6
 #8e44ad
