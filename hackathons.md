@@ -14,10 +14,15 @@
 
 Hackathons space: luma, devpost, dev.to, hashnode
 
-## 2026 (5)
+## 2026 (6)
 
 Focus: AI agents & product thinking
 
+- 🗼 **Hack the Liquid WAY**  
+  → [NyanNyan Guardian](https://github.com/leopaul29/liquidAI-06062026)  
+  → Real-time Japanese audio detoxification replacing toxic speech with 「にゃんにゃん」 while preserving voice and rhythm
+  → Tech: Python, PyTorch, LiquidAI/LFM2.5-Audio-1.5B-JP, Irodori-TTS, DeepSeek, Hugging Face
+  
 - 🗼 **Clawathon Tokyo Edition**  
   → [XRPL Oracle Omikuji](https://github.com/leopaul29/clawathon-02052026)  
   → Autonomous Shinto AI Oracle providing Omikuji via XRPL instant micro-payments.  
