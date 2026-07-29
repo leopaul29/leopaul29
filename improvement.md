@@ -4,6 +4,26 @@
 
 ---
 
+## At a glance
+
+| Category         | ID      | Emoji | Accent |
+| ---------------- | ------- | ----- | ------ |
+| Hackathon        | HACK    | 🏆    | Orange |
+| Open Source      | OSS     | 🌍    | Green  |
+| SaaS Experiment  | SAAS    | 💼    | Blue   |
+| AI Agent         | AGENT   | 🤖    | Purple |
+| Chrome Extension | EXT     | 🧩    | Cyan   |
+| Content Tool     | CONTENT | ✍️    | Pink   |
+| Learning Project | LAB     | 🧪    | Yellow |
+
+- **README spine:** `Title → Tagline → Overview → Problem → Solution → Features → Tech Stack → Roadmap`
+- **About:** `[Emoji] Context/Event · Short Description · Date`
+- **Naming:** 1–2 words · memorable · product-like · future-proof
+
+**Portfolio mapping:** 🏆 *AI Bicycle* (Liquid AI, Tokyo) · 🤖 *Kizuna Link* (Impact Tokyo) · 🤖 *XRPL Oracle Omikuji* (Clawathon)
+
+---
+
 ## 1. Goals
 
 The repository branding system should:
@@ -62,9 +82,9 @@ The category system should remain simple and recognizable rather than becoming a
 ### Example
 
 ```md
-# StartupScout
+# Kizuna Link
 
-> AI agents that validate startup ideas using market research and competitor analysis.
+> A voice-first AI companion connecting seniors to city-hall services and their family.
 ```
 
 ### Rationale
@@ -214,7 +234,7 @@ Keep it short enough to avoid aggressive truncation.
 ### Hackathon Example
 
 ```text
-🏆 Tokyo AI Hackathon · Multi-agent startup validator · Jun 2026
+🏆 Impact Tokyo · Voice-first wellness companion for seniors · Mar 2026
 ```
 
 It communicates:
@@ -441,6 +461,49 @@ The objective is to make even experimental projects feel like intentional produc
 - Date: {Date}
 ```
 
+### Filled example — *Kizuna Link* (Impact Tokyo, Mar 2026)
+
+```md
+# Kizuna Link
+
+> A voice-first AI companion connecting seniors to city-hall services and their family.
+
+🏆 Hackathon Project · Impact Tokyo
+📍 Tokyo, Japan
+📅 Mar 2026
+
+## Challenge
+Seniors struggle to navigate *Kuyakusho* (ward office) services and to stay
+connected with distant family, especially when apps assume comfort with screens.
+
+## Solution
+A voice-first AI bridge that turns spoken requests into the right city-hall
+service and keeps family in the loop through familiar messaging.
+
+## Demo
+https://github.com/leopaul29/impacttokyo-07032026
+
+## Features
+- Voice-first interaction, no app learning curve
+- Guided access to Kuyakusho services
+- Family updates over LINE
+
+## Tech Stack
+- Next.js
+- Tailwind CSS
+- OpenAI API
+- LINE Messaging API
+- Simulated MyNumber logic
+
+## Team
+- [@leopaul29](https://github.com/leopaul29)
+
+## Hackathon Details
+- Hackathon: Impact Tokyo
+- Location: Tokyo, Japan
+- Date: Mar 2026
+```
+
 ---
 
 ## 14. Repository Template: Open Source
@@ -590,7 +653,7 @@ Product Name → One-line value proposition → Overview → Problem → Solutio
 [Category Emoji] Context/Event · Short Description · Date
 ```
 
-Example: `🏆 Tokyo AI Hackathon · Multi-agent startup validator · Jun 2026`
+Example: `🏆 Impact Tokyo · Voice-first wellness companion for seniors · Mar 2026`
 
 **Cover:**
 
