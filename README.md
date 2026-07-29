@@ -5,8 +5,7 @@
 
 🌏 Tokyo-focused · 🤖 From winning hackathons to building AI agents
 
-<!-- TODO: replace the 3 placeholder URLs below with your real links, then this line is recruiter-ready -->
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · 🏆 [Devpost](https://devpost.com/YOUR-HANDLE) · 🌐 [Portfolio](https://YOUR-PORTFOLIO) · ✍️ [Blog](https://lpm.hashnode.dev/)
+💼 [LinkedIn](https://www.linkedin.com/in/leo-paul-martin) · 🌐 [Portfolio](https://leopaul29.github.io) · ✍️ [Blog](https://lpm.hashnode.dev/)
 
 ---
 
@@ -15,7 +14,7 @@
 _Selected from 20+ hackathons — prize-winning, AI-focused, Tokyo-built._
 
 **🥈 [AI Bicycle](https://github.com/leopaul29/AI-Bicycle-Liquid-AI-Tokyo-Hackathon)** — Liquid AI × W&B × Lambda Hackathon · **2nd Place**  
-<!-- TODO: one line — what does AI Bicycle do? -->
+A playful AI companion inspired by a mascot train from a Japanese anime.
 
 **🏅 [AI Reminder Bot](https://github.com/leopaul29/waytoagi-25102025)** — Wayto AGI · **Special Prize** · [📰 write-up](https://lpm.hashnode.dev/waytoagi-25102025)  
 An AI-powered reminder & to-do assistant.
