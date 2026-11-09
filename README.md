@@ -1,13 +1,26 @@
 # 👋 Hi, I'm Leo / レオです
 
-**🇬🇧 Passionate full-stack developer seeking opportunities in Japan. Building modern web applications with React, Angular, and Spring Boot.**  
-**🇯🇵 日本の技術業界で働くことを夢見ているフルスタック開発者です。**
+**🇬🇧 Full-stack developer based in Tokyo. I build web apps and browser extensions with TypeScript, React, Next.js and Spring Boot.**  
+**🇯🇵 東京在住のフルスタック開発者です。TypeScript・React・Next.js・Spring Boot でWebアプリやブラウザ拡張機能を作っています。**
+
+✍️ Blog: [lpm.hashnode.dev](https://lpm.hashnode.dev/)
 
 ---
 
+## 🚀 Featured projects / 注目プロジェクト
+
+### 🔥 [Git Streak Monitor](https://chromewebstore.google.com/detail/git-streak-monitor/admfkkjjfhhebfiaojgmljeikjbcgdca)
+Chrome extension that tracks your GitHub commit streak, so you never lose it by accident.  
+→ Live on the [Chrome Web Store](https://chromewebstore.google.com/detail/git-streak-monitor/admfkkjjfhhebfiaojgmljeikjbcgdca) · [Landing page](https://git-streak-monitor-landing.vercel.app)  
+→ Tech: TypeScript, Chrome Manifest V3
+
+### 🚃 [CommuteMap](https://github.com/leopaul29/commute-map-housing)
+Find which Tokyo neighbourhoods to live in, starting from your workplace, maximum commute time and budget. EN / 日本語.  
+→ Tech: Next.js, TypeScript, Leaflet
+
 ## 🛠 Tech Stack / 技術スタック
 
-![myskills](https://skillicons.dev/icons?i=react,angular,nextjs,java,spring,githubactions,bitbucket,azure,postgres,py,pytorch,solidity&theme=light)
+![myskills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,angular,java,spring,postgres,py,githubactions&theme=light)
 
 ## ⚡ Hackathons / ハッカソン
 
