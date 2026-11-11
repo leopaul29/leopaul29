@@ -16,7 +16,7 @@ Chrome extension that tracks your GitHub commit streak, so you never lose it by 
 
 ### 🚃 [CommuteMap](https://commute-map-housing.vercel.app)
 Find which Tokyo neighbourhoods to live in, starting from your workplace, maximum commute time and budget. EN / 日本語.  
-→ Live at [commute-map-housing.vercel.app](https://commute-map-housing.vercel.app) · [Source](https://github.com/leopaul29/commute-map-housing)  
+→ Live at [commute-map-housing.vercel.app](https://commute-map-housing.vercel.app)  
 → Tech: Next.js, TypeScript, Leaflet
 
 ## 🛠 Tech Stack / 技術スタック
